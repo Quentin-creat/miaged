@@ -1,5 +1,18 @@
 # Documentation de l'Application Miaged
 
+## Identifiants de Test
+
+Pour tester l'application, vous pouvez utiliser les identifiants suivants :
+
+- **Nom d'utilisateur :** quentin
+- **Mot de passe :** pass
+
+ou
+
+- **Nom d'utilisateur :** test
+- **Mot de passe :** test
+
+
 ## Fonctionnement de l'Application
 
 L'application Miaged est une application de gestion d'activités. Elle permet aux utilisateurs de se connecter, de consulter des activités disponibles, d'ajouter des activités à leur panier et de consulter leur profil.
@@ -15,18 +28,4 @@ L'application est structurée en plusieurs écrans principaux :
 4. **Panier** : Les utilisateurs peuvent ajouter des activités à leur panier et consulter les activités déjà ajoutées.
 
 5. **Profil Utilisateur** : Les utilisateurs peuvent consulter et mettre à jour leur profil utilisateur, y compris leur adresse, leur ville, leur code postal, leur mot de passe, etc.
-
-## Identifiants de Test
-
-Pour tester l'application, vous pouvez utiliser les identifiants suivants :
-
-- **Nom d'utilisateur :** quentin
-- **Mot de passe :** pass
-
-ou
-
-- **Nom d'utilisateur :** test
-- **Mot de passe :** test
-
-Ces identifiants sont fournis pour permettre une expérience de test simplifiée de l'application.
 
